@@ -16,7 +16,18 @@ Here are some ideas to get you started:
 -->
 https://github.com/user-attachments/assets/a55d6cc2-4b79-4c49-8b9d-67a8b4c804d8
 
-![img_contact](./img/html.png#gh-light-mode-only)
+
+Languages & Tools:
+
+<img width="120px" src=./img/html.png />
+<img width="120px" src=./img/css.png />
+<img width="120px" src=./img/js.png />
+<img width="120px" src=./img/php.png />
+<img width="120px" src=./img/sql.png />
+<img width="120px" src=./img/python.png />
+<img width="120px" src=./img/java.png />
+<img width="120px" src=./img/angular.png />
+<img width="120px" src=./img/react.png />
 
 ![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/amazing-spider-man-800x400.jpg)
 
