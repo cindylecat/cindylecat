@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/amazing-spider-man-800x400.jpg)
+
+![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/Qui-Suis-Je?.MOV)
