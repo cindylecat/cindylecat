@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/amazing-spider-man-800x400.jpg)
 
-![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/Qui-Suis-Je?.MOV)
+![Cover](https://github.com/cindylecat/cindylecat/blob/main/img/Qui-Suis-Je?.mp4)
