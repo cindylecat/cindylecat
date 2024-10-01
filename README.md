@@ -1,7 +1,7 @@
 ## Hi Everybody!!!!!!! 👋
 
 <img width="120px" src=./img/CindyLCT2.jpg />
-<!--
+
 **cindylecat/cindylecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
