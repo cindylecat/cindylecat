@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/cindy-lecat
 - 😄 Pronouns: Flynn
 - ⚡ Fun fact: Spiderman, BMX, Netflix, Summer, Travel etc
--->
+
 https://github.com/user-attachments/assets/a55d6cc2-4b79-4c49-8b9d-67a8b4c804d8
 
 
