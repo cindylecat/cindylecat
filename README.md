@@ -3,9 +3,6 @@
 <img width="120px" src=./img/CindyLCT2.jpg />
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on personnel project 
 - 🌱 I’m currently learning in Ada Tech School
 - 🤔 I’m looking for help with find a alternation
